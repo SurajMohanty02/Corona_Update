@@ -1,0 +1,34 @@
+.Name{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.Name>.expand{
+  display:flex;
+  justify-content:flex-end;
+  align-items: flex-end;
+  color:red;
+
+}
+.edit:hover{
+color:blue;
+}
+.edit:focus{
+  border: none;
+  outline:none;
+  border-radius:none;
+  border-width: 0;
+}
+.icon_btn:focus{
+  border: none;
+  outline:none;
+  border-radius: 0%;
+  border-width: 0;
+}
+.button__sub{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 10px;
+}

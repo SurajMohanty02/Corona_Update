@@ -1,0 +1,21 @@
+.Search{
+display:flex;
+justify-content: center;
+
+
+}
+.Search_bar{
+border:none;
+outline: none;
+background-color: rgba(192, 190, 157, 0.719);
+color:#313131;
+padding:15px 35px;
+border-radius:0 0 16px 16px;
+}
+.Card{
+    color:white;
+}
+.color_text{
+
+    color:gray;
+}
